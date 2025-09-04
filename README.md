@@ -26,7 +26,7 @@ Uma coleção organizada de links importantes e recursos para o Jogo do Proteca.
 - [Acessibilidade](https://docs.google.com/document/d/1C1Shi5spiznY5vr8WRzIFB13IK-DW4efVLIkyreg37s/edit?tab=t.0) - Pesquisa sobre acessibilidade em jogos digitais.
 - [Padrões](https://docs.google.com/document/d/12A0xtUpHdvCHkNYv1IuV4lTE5dfarqu4dz35lhsjoZM/edit?tab=t.0) - Guia com padrões do Código que devem ser seguidos.
 - [Requisitos](https://drive.google.com/drive/folders/1VP15mWyamQFkNO181Trnv51JnJVRP1L4?ths=true) - Pastas com Requisitos do projeto.
-- [Repositório]([https://www.github.com/exemplo](https://github.com/Proteca-Org/proteca)) - Repositório do Proteca.
+- [Repositório](https://github.com/Proteca-Org/proteca) - Repositório do Proteca.
 
 ### 🎨 Design & Criatividade
 - [Narrativa](https://docs.google.com/document/d/1t9D8qfzkO08c-H11KnQlU_rjxJ7pgO13fKKCJxUCxM8/edit?tab=t.0#heading=h.ploptmfjpngl) - Narrativa Linear do Proteca.
